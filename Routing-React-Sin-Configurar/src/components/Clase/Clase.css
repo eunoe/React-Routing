@@ -1,0 +1,21 @@
+table,
+th,
+td {
+  border: 1px solid rgb(107, 146, 204);
+  border-collapse: collapse;
+  padding: 0.5em;
+}
+
+th {
+  background-color: lightskyblue;
+  color: rgb(94, 94, 197);
+}
+
+button {
+  background-color: rgb(188, 212, 248);
+  color: rgb(94, 94, 197);
+}
+
+table {
+  margin: 1em !important;
+}

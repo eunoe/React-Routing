@@ -1,0 +1,12 @@
+.detalles {
+  width: fit-content;
+  margin: auto;
+}
+
+.detalles ul {
+  padding-left: 0;
+}
+
+.detalles li {
+  text-align: start;
+}
